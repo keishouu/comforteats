@@ -19,8 +19,8 @@ body{
 }
 
 .container img{
-    height: 100px;
-    width: 100px;
+    height: 80px;
+    width: 80px;
     margin: 0 0 10px 10px;
 }
 
@@ -47,8 +47,8 @@ body{
     white-space: nowrap;
     position: absolute;
     color: #EDD4C5;
-    top: 40%;
-    left: 30%;
+    top: 20%;
+    left: 25%;
     
 }
 
